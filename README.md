@@ -30,6 +30,8 @@ Keys can be assigned a fixed color ("steady" mode), either through a configurati
 A few select presets are also available for supported models, which emulate vendor-provided SteelSeries configurations.
 
 
+Hi, how can I reach out? I need some help with the KDE plugin temperature monitor :)
+
 Compatibility
 ----------
 
